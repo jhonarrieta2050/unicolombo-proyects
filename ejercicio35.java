@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ejericicio35 {
+public class ejercicio35 {
     
     public static void main(String[] args) {
         

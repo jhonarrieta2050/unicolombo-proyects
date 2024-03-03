@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejericcio18 {
+public class ejercicio18 {
     public static void main(String[] args){
         
         double cudrado = 125*125;
