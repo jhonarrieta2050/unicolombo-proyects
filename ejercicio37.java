@@ -13,7 +13,7 @@ public class ejercicio37 {
         
         
 
-        if(minutes>=15){
+        if(minutes>=10){
 
             double rest1 = (hours+1 ) *15.00;
             System.out.println("El cobre es de " + rest1);

@@ -5,7 +5,7 @@ public class ejercicio38 {
         System.out.println("Write your age");
         int age = lectura.nextInt();
 
-        int gramos = age * 8 * 1000;
+        int gramos = age * 8000;
         int manzanas = gramos/4;
 
         System.out.println("La cantidad de fruta consumida en gramos es de " + gramos);
