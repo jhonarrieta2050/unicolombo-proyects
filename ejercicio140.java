@@ -56,7 +56,7 @@ public class ejercicio140 {
 
     public static long calcularFactorial(int numero) {
         if (numero < 0) {
-            return -1; 
+            return -1;
         }
         long factorial = 1;
         for (int i = 1; i <= numero; i++) {
